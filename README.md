@@ -1,31 +1,86 @@
-#  Antriksh Darshan
+# 🌌 Antriksh Darshan
 
-#### Description
+## 🚀 Description
 
-Antriksh Darshan is a simple web app where users can explore space images using NASA API. It shows daily space images and users can also search images by date.
+Antriksh Darshan is a web application that allows users to explore space images and videos using NASA's Astronomy Picture of the Day (APOD) API.
 
+---
 
+## 🌐 Live Project
 
-#### Features
+👉 https://shivamchoubey2004.github.io/Antriksh_Darshan/
 
-* Show daily space image
-* Search image by date
-* Filter image or video
-* Sort images by date
-* Save favorite images
+---
 
+## ✨ Features
 
+* 📅 View daily space images
+* 🔍 Search images using keywords
+* 🎯 Filter (Images / Videos)
+* 🔄 Sort (Newest / Oldest)
+* ⭐ Save favorites using localStorage
+* 🌙 Dark / Light mode toggle
+* 📱 Fully responsive design
 
-#### API Used
+---
 
-NASA APOD API is used to fetch space images and related data.
-
-
-
-#### Tech Stack
+## 🛠️ Tech Stack
 
 * HTML
 * CSS
 * JavaScript (ES6)
+* NASA APOD API
 
+---
+
+## 📂 Project Structure
+
+```
+index.html
+css/
+  style.css
+js/
+  api.js
+  main.js
+  ui.js
+  utils.js
+```
+
+---
+
+## ⚙️ How to Run
+
+1. Clone the repository
+2. Open index.html in browser
+3. Add your NASA API key in api.js
+
+---
+
+## 📊 Milestones
+
+### ✅ Milestone 2
+
+* API integration using fetch()
+* Dynamic data rendering
+* Responsive UI
+
+### ✅ Milestone 3
+
+* Search using filter()
+* Filter by type
+* Sort using sort()
+* Favorites using localStorage
+* Dark mode toggle
+
+### ✅ Milestone 4
+
+* Final code cleanup
+* Documentation completed
+* Project deployed using GitHub Pages
+
+---
+
+## 👨‍💻 Author
+
+Shivam Choubey
 
